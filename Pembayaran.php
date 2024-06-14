@@ -139,5 +139,9 @@ primary">Simpan</button>
 </tbody>
 </table>
 </div>
+  </div>
+<form action="modul/pembayaran/aksi_pembayaran.php?act=insert" method="post">
+<!-- baris program yang lain -->
+ </form>
 </div>
 </div>
